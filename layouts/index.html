@@ -1,0 +1,19 @@
+{{ define "main" }}
+    <main aria-role="main">
+        <div>
+            {{ if .Site.Params.portrait.path }}
+               <img src="{{ .Site.Params.portrait.path }}" class="circle" style="border-radius: 10%;" alt="{{ .Site.Params.portrait.alt }}" />
+            {{ end }}
+        </div>
+        <div align='center'>
+            <h1>{{ .Site.Title }}</h1>
+            {{- with .Site.Params.homeSubtitle }}
+                <p>{{.}}</p>
+            {{- end }}
+        </div>
+        <hr>
+        <div class='footer'><small>
+            {{ .Content }}
+        </small></div>
+    </main>
+{{ end }}
