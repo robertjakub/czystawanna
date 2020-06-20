@@ -1,5 +1,5 @@
-baseURL = "https://konkarino.pl/x/"
-title   = "walijski prawie-katolicki kościół,\n najczystszej wanny w Walii"
+baseURL = "https://konkarino.pl"
+title   = "walijski prawie-katolicki kościół, najczystszej wanny w Walii"
 languageCode = "pl-pl"
 theme = "hello-friend-ng"
 
@@ -7,8 +7,8 @@ PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
 paginate  = 10
-# rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+copyright = "Marek Grabie, Wojtek Krzyżaniak i przyjaciele" # This message is only used by the RSS template.
 
 # googleAnalytics = ""
 # disqusShortname = ""
@@ -68,16 +68,15 @@ disableHugoGeneratorInject = true
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  customCSS = ["css/images.css"]
+  customCSS = ["/css/images.css"]
   customJS  = []
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
-  justifyContent = true  # Set "text-align: justify" to .content.
+  #justifyContent = true  # Set "text-align: justify" to .content.
 
   # Default theme "light" or "dark"
   defaultTheme = "light"
   themeColor = "#252627"
-#  themeColor = "#FFFFFF"
 
   # Colors for favicons
   [params.favicon.color]
@@ -124,7 +123,7 @@ disableHugoGeneratorInject = true
   [languages.en]
     subtitle  = ""
     weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = '<span></span>'
 
 #  [languages.fr]
 #    subtitle  = "Hello Friend NG Theme"
