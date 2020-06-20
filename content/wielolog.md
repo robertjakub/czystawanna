@@ -26,6 +26,6 @@ title: "Tuzinolog"
 
 10. Nie mów fałszywego świadectwa przeciw bliźniemu swemu. Możesz kłamać jak najęty jeśli czujesz, że to bliźniemu pomoże, ale po prostu nie rób tego na jakimś świadectwie.
 
-11. Im bardziej pożądasz rzeczy tym bardziej się nimi stajesz. Jeśli pożądasz ich trochę to jeszcze w porządku, ale jeśli czynisz to bez umiaru możesz wylądować na wystawie sklepowej jako manekin. W każdym gdy ktoś domaluje ci nagle nos, to nie mów, że nie ostrzegałem.
+11. Im bardziej pożądasz rzeczy tym bardziej się nimi stajesz. Jeśli pożądasz ich trochę to jeszcze w porządku, ale jeśli czynisz to bez umiaru możesz wylądować na wystawie sklepowej jako manekin. W każdym razie gdy ktoś domaluje ci nagle nos, to nie mów, że nie ostrzegałem.
 
 12. Jeśli spotkasz na ulicy Starego Chajzera to się przeżegnaj. Chyba, że Chajzer porzucił reklamę środków piorących i został kominiarzem - wtedy po prostu złap się za guzik.
