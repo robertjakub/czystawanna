@@ -3,6 +3,10 @@ date: 2020-06-19
 title: "Genesis"
 ---
 
+{{< youtube HUlAJiCRTFE widescreen 45 >}}
+
+&nbsp;
+\
 Początek lat siedemdziesiątych. Brytyjska młodzież, skoncentrowana na dobrach materialnych traci zainteresowanie życiem duchowym, co stopniowo coraz bardziej odciąga ją od **walijskiego prawie-katolickiego kościoła, najczystszej wanny w Walii**.
 \
 Młodzi coraz mniej wierzą w oczyszczająca moc **Pana Propera**. Co więcej, wielu z nich, przestaje ufać w historyczność samej postaci - do czego po cichu przekonuje ich konkurencyjna “Procter and Gamble”.
@@ -76,3 +80,4 @@ Brian May podnosi się z łóżka. Bierze gitarę i gra najsmutniejszego riffa j
 W tym czasie pozostali muzycy uderzają głową akurat w lufcik i parapet w pobliżu szpitala. Słyszą donośne wyjaśnienia Pana Propera.
 
 Wchodzą do sali szpitalnej i z płaczem ściskają kudłatego Briana May’a - gitarzystę powstałego na nowo zespołu “Queen”.
+
