@@ -35,6 +35,7 @@ disableHugoGeneratorInject = true
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
+  music = "/music/:year/:title/"
 
 [author]
   name = "Koń Karino"
@@ -48,6 +49,8 @@ disableHugoGeneratorInject = true
   series   = "series"
 
 [params]
+  showMenuItems = 2
+  MenuMore = "więcej"
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
@@ -135,7 +138,14 @@ disableHugoGeneratorInject = true
     identifier = "genesis"
     name       = "genesis"
     url        = "genesis/"
+    weight     = 10
   [[menu.main]]
     identifier = "tuzinolog"
     name       = "tuzinolog"
     url        = "wielolog/"
+    weight     = 20
+  [[menu.main]]
+    identifier = "muzyka"
+    name       = "muzyka"
+    url        = "muzyka/"
+    weight     = 30
