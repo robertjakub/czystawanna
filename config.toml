@@ -1,5 +1,6 @@
 baseURL = "https://konkarino.pl"
 title   = "walijski prawie-katolicki kościół, najczystszej wanny w Walii"
+
 languageCode = "pl-pl"
 theme = "hello-friend-ng"
 
@@ -62,6 +63,8 @@ disableHugoGeneratorInject = true
   images = [""]
 
   homeSubtitle = "lub być może w Chinach ale raczej w Walii"
+  titleLine1   = "walijski prawie-katolicki kościół"
+  titleLine2   = "najczystszej wanny w Walii"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -71,7 +74,7 @@ disableHugoGeneratorInject = true
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  customCSS = ["/css/images.css"]
+  customCSS = []
   customJS  = []
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
@@ -149,3 +152,8 @@ disableHugoGeneratorInject = true
     name       = "muzyka"
     url        = "muzyka/"
     weight     = 30
+  [[menu.main]]
+    identifier = "przypowieści"
+    name       = "przypowieści"
+    url        = "przypowiesci/"
+    weight     = 40

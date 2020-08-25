@@ -1,0 +1,5 @@
++++
+sitetitle = "przypowieści"
++++
+
+# przypowieści

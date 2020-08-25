@@ -7,7 +7,14 @@
             {{ end }}
         </div>
         <div align='center'>
-            <h1>{{ .Site.Title }}</h1>
+            {{ if .Site.Params.titleLine1 }}
+                <h1>{{ .Site.Params.titleLine1 }} <br/> 
+                    {{ .Site.Params.titleLine2 }}
+                </h1>
+            {{ else }}
+                <h1>{{ .Site.Title }}</h1> 
+            {{ end }}
+
             {{- with .Site.Params.homeSubtitle }}
                 <p>{{.}}</p>
             {{- end }}
