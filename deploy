@@ -1,0 +1,4 @@
+hugo -D --minify
+
+(cd public; rsync -avx --delete . robert@fido.project2.pl:/webs/karino/pages;)
+
